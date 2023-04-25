@@ -46,3 +46,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexsedeke&" alt="alexsedeke" />
 </p>
+<img src="https://hit.yhype.me/github/profile?user_id=45141470" />
